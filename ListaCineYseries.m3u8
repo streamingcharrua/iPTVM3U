@@ -5,6 +5,9 @@ https://channel.gotv.ar:1936/GOTV/GOTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/d2441O7" group-title="Cine/Series",CineAccion Xtrema
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CineK BR" tvg-logo="https://imgur.com/pcVW2tr.png" group-title="Cine/Series"
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ejm8U9z.png" group-title="Cine/Series",Multivox Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
