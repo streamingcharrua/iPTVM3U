@@ -8,7 +8,7 @@ Para evitar caídas, sigue estos pasos en tu dispositivo:
 3. Selecciona **Lista M3U**.
 4. **Importante:** Activa la opción **"Actualizar al iniciar"** para que siempre tengas los últimos canales de cine.
 
-5. Pega esta URL: https://raw.githubusercontent.com/streamingcharrua/iPTVM3U/refs/heads/main/ListaCineYseries.m3u8
+5. Pega esta URL: https://raw.githubusercontent.com/streamingcharrua/Cine-Serie/refs/heads/main/Cine-Serie.m3u8
 
 ### 🍿 Qué verás hoy
 - Cine de Estreno
