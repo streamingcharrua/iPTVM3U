@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/a/11BAmjr.png" group-title="Cine/Series",CineAccion Xtrema
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineK BR" tvg-logo="https://imgur.com/pcVW2tr.png" group-title="Cine/Series"
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ejm8U9z.png" group-title="Cine/Series",Multivox Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/TBaKW0W.png" group-title="Cine/Series",Xtrema Cartoon
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/lista de reproducción.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/TBaKW0W.png" group-title="Cine/Series",CineXtrema Clasicos
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC Latino" tvg-logo="https://e7.pngegg.com/pngimages/927/81/png-clipart-amc-theatres-cinema-film-kerasotes-theatres-television-fortnite-john-wick-love-television.png" group-title="Cine/Series", AMC Cine
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/bKhIA7B.png" group-title="Cine/Series",MultiVox Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28 Years Later" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/28_Years_Later_film_poster.jpg/250px-28_Years_Later_film_poster.jpg" group-title="Peliculas",La evolución (28 Years Later)2025 ‧ Terror/Suspenso
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula1.mp4
+
+#EXTINF:-1 tvg-id="MERCY" tvg-logo="https://pics.filmaffinity.com/mercy-236747908-mmed.jpg" group-title="Peliculas",Mercy;Sin piedad 2026 ‧Ciencia ficción/Suspenso
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula2.mp4
+
+#EXTINF:7735 tvg-id="" tvg-logo="https://pics.filmaffinity.com/roofman-517086044-large.jpg" group-title="Peliculas",Despues de Nosotros el Diluvio
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
+
+#EXTINF:5271 tvg-id="ROOFMAN" tvg-logo="https://pics.filmaffinity.com/roofman-517086044-large.jpg" group-title="Peliculas",Roofman, Un ladron 2025 Comedia/Drama
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
+
+#EXTINF:6267 tvg-id="" tvg-logo="https://pics.filmaffinity.com/Hamnet-581493481-large.jpg" group-title="Peliculas",Hamnet 2025 ‧ Drama
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
+
+#EXTINF:6497 tvg-id="" tvg-logo="https://pics.filmaffinity.com/jumbo-158990376-large.jpg" group-title="Peliculas",Jumbo:Un corazón gigante 2025 ‧ Fantasía/Aventura
+https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
+
